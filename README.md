@@ -1,4 +1,4 @@
-# 🏛️📊 Analysis of Income, Inflation, Expenditure, and Crime Across U.S. States
+# 📊 Analysis of Income, Inflation, Expenditure, and Crime Across U.S. States
 
 ## 📌 Overview
 This project presents a **data-driven analysis of socio-economic factors across U.S. states**, focusing on the relationship between **income levels, inflation, household expenditure, and crime rates**.
